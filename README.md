@@ -37,7 +37,7 @@
       </head>    
       <body>  
       <h1  = text-align:center;>    
-         <h1 style="color:white;font-size:20;">*** *** MAKE IT WORK, MAKE IF RIGHT, MAKE IT FAST *** ***</h1>   
+         <h1 style="color:white;font-size:20;">*** MAKE IT WORK, MAKE IF RIGHT, MAKE IT FAST ***</h1>   
     </body>    
              
 </html>
